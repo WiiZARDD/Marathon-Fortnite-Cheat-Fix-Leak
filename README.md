@@ -1,42 +1,28 @@
-# *Marathon-Fortnite-Cheat-Fix-Leak*
+# Marathon-Fortnite-Cheat 
+Marathon Cheat Updated to 18.20
 
-*(FIXED) Since the one on github didn't work. (ALSO INCLUDES .DLL SO YOU CAN JUST INJECT INTO FORTNITE)* 
-
-## Setup 
-
-### Dependencies
-
-*https://github.com/microsoft/Detours*
-
-*https://www.microsoft.com/en-us/download/details.aspx?id=35*
-
-### Installation
-
-* Mac OS X
-* Ubuntu & Linux
-* Windows 7 / 10
-
-### Getting started
-
-*You must have DirectX, Visual Studio 2019, and Your favorate .DLL injector installed*
-
-*as well as Fortnite OBVIOUSLY to make this work.*
-
-`Open the .sln file in Visual Studio 2019`
-
-`Build as x64 RELEASE and build the .DLL`
-
-`Open your favorate DLL Injector`
-
-`Inject built DLL into Fortnite-Win-Shipping.exe`
-
-## Usage
-
-*Make sure you are at the Main Menu of Fortnite before injecting.*
-*Load the .DLL file you have built into any DLL Injector (I recommend using UNDETECTED Injectors for this).*
-*The IMGUI should open up with ESP options, etc...*
-
-## Errors and bugs
-
-If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/Marathon-Fortnite-Cheat-Fix-Leak/WiiZARDD/issues
+<p align="center">
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://media.discordapp.net/attachments/888490416247275522/888855624232882217/unknown.png?width=1214&height=683" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center" style="padding=0;width=50%;">
+			<img src="https://media.discordapp.net/attachments/888490416247275522/888855806198566932/unknown.png?width=1214&height=683" />
+		</td>
+	</tr>
+	<tr>
+    
+    
+# Features
+    
+- Aimbot   
+- Memory Aim  
+- Smoothing
+- AimbotFOV
+- Player Skeleton
+- Player Box
+- Player Distance
+- Player Lines
+    
